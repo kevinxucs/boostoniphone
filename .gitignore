@@ -1,9 +1,9 @@
-build
-src
-tmp
-prefix
-boost_1_41_0
-boost_1_41_0.tar.bz2
-xcode/Boost.xcodeproj/*.mode1v3
-xcode/Boost.xcodeproj/*.pbxuser
+/build
+/src
+/tmp
+/prefix
+/boost_1_49_0
+boost_1_49_0.tar.bz2
+/xcode
+/framework
 .DS_Store
